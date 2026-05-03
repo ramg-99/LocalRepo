@@ -1,2 +1,2 @@
                          
-<b>This is new repo</b>
+<b>This is my new repo</b>
